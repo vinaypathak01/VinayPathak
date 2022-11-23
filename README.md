@@ -1,5 +1,5 @@
 # VinayPathak
-### hey there 
+### Hi there,I'm Vinay!👋 
 <a href="https://www.instagram.com/the_vinay_pathak/">
   <img align="left" alt="Vinay's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
